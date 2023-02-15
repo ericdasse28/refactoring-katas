@@ -17,4 +17,4 @@ La liste n'est pas exhaustive et est amenée à grossir avec le temps :)
 
 ## Conseils de résolution
 1. Assurez que toutes les fonctionnalités sont couvertes par des tests
-2. Ensuite, demandez-vous quel design pattern vous permettrait de mieux répondre à la problématique tout en augmentant la lisibilité et les possibilités d'évolution du code
+2. Ensuite, demandez-vous quel design pattern vous permettrait de mieux répondre à la problématique tout en augmentant la lisibilité et les possibilités d'évolution du code. Vous pouvez même trouver l'inspiration sur le fameux [refactoring.guru](https://refactoring.guru/)
