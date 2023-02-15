@@ -14,3 +14,7 @@ Pour les développeurs Python, il existe également des exercices de refactoring
 Pour les développeurs front-end, il existe le [Baby Steps Timer Kata](https://github.com/dtanzer/babystepstimer) qui est très intéressant pour les personnes qui ont travaillé avec React, Vue ou Angular pour faire des Single Page Applications.
 
 La liste n'est pas exhaustive et est amenée à grossir avec le temps :)
+
+## Conseils de résolution
+1. Assurez que toutes les fonctionnalités sont couvertes par des tests
+2. Ensuite, demandez-vous quel design pattern vous permettrait de mieux répondre à la problématique tout en augmentant la lisibilité et les possibilités d'évolution du code
