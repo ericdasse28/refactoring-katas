@@ -11,4 +11,6 @@ Ce repository répertorie quelques katas de refactoring pour entrainer à cette 
 
 Pour les développeurs Python, il existe également des exercices de refactoring pour s'imprégner des bonnes pratiques [ici](https://github.com/dmerejkowsky/python-refactoring-exercices)
 
-La liste n'est pas exhaustive et est amené à grossir avec le temps :)
+Pour les développeurs front-end, il existe le [Baby Steps Timer Kata](https://github.com/dtanzer/babystepstimer) qui est très intéressant pour les personnes qui ont travaillé avec React, Vue ou Angular pour faire des Single Page Applications.
+
+La liste n'est pas exhaustive et est amenée à grossir avec le temps :)
