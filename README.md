@@ -7,3 +7,8 @@ C'est une compétence essentielle car le métier de développeur nécessite dans
 Ce repository répertorie quelques katas de refactoring pour entrainer à cette compétence primordiale ;) :
 - [Gilded Rose](https://kata-log.rocks/gilded-rose-kata)
 - [Tennis Refactoring Kata](https://github.com/emilybache/Tennis-Refactoring-Kata)
+- [Trip Service Kata](https://github.com/sandromancuso/trip-service-kata)
+
+Pour les développeurs Python, il existe également des exercices de refactoring pour s'imprégner des bonnes pratiques [ici](https://github.com/dmerejkowsky/python-refactoring-exercices)
+
+La liste n'est pas exhaustive et est amené à grossir avec le temps :)
